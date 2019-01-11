@@ -1,0 +1,30 @@
+project name: Hydra
+
+Github:https://github.com/emagaiot/Upgrade_Firmware/tree/master/Hydra/CN470
+
+//=====================================================
+Release date:	2019-01-10
+Version:	HYDRA_A20_CN470_V1.0.2
+Chip:		STM32L151CC
+ISM:		New CN470
+//=====================================================
+detail:
+1、修改了温度上报只有正数的bug
+
+//=====================================================
+Release date:	2019-01-09
+Version:	HYDRA_A20_CN470_V1.0.1
+Chip:		STM32L151CC
+ISM:		New CN470
+//=====================================================
+detail:
+1、修改了上电数据偏小问题
+
+//=====================================================
+Release date:	2019-01-09
+Version:	HYDRA_A20_CN470_V1.0.0
+Chip:		STM32L151CC
+ISM:		New CN470
+//=====================================================
+detail:
+1、首发版本
