@@ -3,6 +3,15 @@ project name: Hydra
 Github:https://github.com/emagaiot/Upgrade_Firmware/tree/master/Hydra/CN470
 
 //=====================================================
+Release date:	2019-01-15
+Version:	HYDRA_A20_CN470_V1.0.4
+Chip:		STM32L151CC
+ISM:		New CN470
+//=====================================================
+detail:
+1、升级异常返回class A模式后5min随机重启，避免返回A模式后无数据上报的bug
+
+//=====================================================
 Release date:	2019-01-11
 Version:	HYDRA_A20_CN470_V1.0.3
 Chip:		STM32L151CC
